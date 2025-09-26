@@ -25,7 +25,7 @@ Ensure you have the following components installed before proceeding:
 
 Refer to the official [Microsoft guide](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-### Install and Verify Python in WSL
+#### Install and Verify Python in WSL
 
 ```bash
 sudo apt update
