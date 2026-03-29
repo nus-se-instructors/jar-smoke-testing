@@ -61,6 +61,8 @@ $root/
 
 ⚠️Note: WSL may behave slightly different due to your system settings and installed packages.
 
+⚠️Note: Run WSL 'As administrator', to prevent premission errors.
+
 #### Option 1: From Windows File Explorer
 
 1. Open the root directory (the folder containing `linux.py` and `jars/`) in File Explorer.
