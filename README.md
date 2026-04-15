@@ -84,9 +84,17 @@ The script will test each JAR file and generate a `linux.csv` report.
 ```bash
 cd /mnt/c/Users/<directory_path>
 ```
+Example
+```bash
+cd /mnt/c/Users/john/my-wsl-files
+```
 
 3. Run the script:
 
 ```bash
 python3 linux.py
+```
+To run the script using higher privileges,
+```
+sudo python3 linux.py
 ```
